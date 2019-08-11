@@ -1,5 +1,5 @@
-# Machine_Learning_Logistic-Regression----------------
-# Objective of this project to predict the churning of customer based upon available information. Logistic Regression model is prepared for this case to get the probability of churning of each customer and classify in to binary cases.
+# Machine_Learning_Logistic-Regression_Telephoic Customer Chruning
+### Objective of this project to predict the churning of customer based upon available information. Logistic Regression model is prepared for this case to get the probability of churning of each customer and classify in to binary cases.
 
 Following steps are completed in order to do exploratory analysis and completed the model building.
 
